@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+    text-align: justify;
+    background-color: #a1d4f3;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    color: #2E4C5E;
+}
+
+#principal {
+    text-align: center;
+    font-weight: bold;
+    color:aliceblue;
+    font-size: 3em;
+    background-color:#2E4C5E;
+}
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    color:#2E4C5E;
+}
+
+.secundario{
+    background-color:#6F98B3 ;
+}
+
+.destaque{
+    text-decoration: underline;
+
+}
