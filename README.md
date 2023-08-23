@@ -3,4 +3,4 @@
 
  estudos de HTML e CSS :->
 
-<a href="https://matheusszymanski.github.io/HTML-CSS/exercicios/ex001/">Executar o exercicio 1</a>
+<a href="https://matheusszymanski.github.io/HTML-CSS/exercicios/ex001/">Executar o exercicio 001</a>
