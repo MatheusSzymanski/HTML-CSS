@@ -97,7 +97,7 @@ section#img01{
 }
 
 section#img02{
-    background-image: url(imagens/fundo2.jpg);
+    background-image: url(imagens/fundo2.jpg[[]]);
     background-position: right center;
     background-size: cover;
 }
